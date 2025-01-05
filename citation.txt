@@ -1,0 +1,7 @@
+@inproceedings{REPO177,
+    author = "Song, Myungseo and Choi, Jinyoung and Han, Bohyung",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "2380--2389",
+    title = "{Variable-Rate Deep Image Compression through Spatially-Adaptive Feature Transform}",
+    year = "2021"
+}
